@@ -1,9 +1,6 @@
 <template>
   <div id="app">
     <div class="container">
-      <!-- <div class="row spaces">
-        <div class="col-md-12"></div>
-      </div> -->
       <div class="row">
         <div class="col-md-12 pull-right">
             <app-header></app-header>
@@ -52,10 +49,6 @@ export default {
 </script>
 
 <style>
-.spaces {
-  margin-top:10px;
-  margin-bottom: 10px;
-}
 .container {
   height: 100%;
   width: 100%;
